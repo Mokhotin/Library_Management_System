@@ -1,14 +1,5 @@
 package library;
 
-/**
- * The Reader class represents a reader in a library.
- * It contains information about the reader, such as their ID, name, and contact details.
- * It provides a method to display the reader information.
- * 
- * @author MOK Ho Tin (23637498)
- * @version FINT2100 Project
- * @since 2024-04-24
- */
 public class Reader {
     
     // Reader Attributes
